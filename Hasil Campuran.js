@@ -1,4 +1,4 @@
-{
+var json_Hasil_Campuran = {
 "type": "FeatureCollection",
 "name": "Hasil Campuran",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
